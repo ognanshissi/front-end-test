@@ -13,6 +13,7 @@ npm i
 ```
 ## What To Do
 Pick **Angular** as framework
+
 Create a simple application to manage tasks, todos app. Here the features you should add:
 - Add an input field for the title of todo.
 - Pressing `Enter` should submit the form, to add a todo.
