@@ -1,5 +1,5 @@
 # Todo App
-This application will help you create a simple TODO app, rely on browser storage
+This application will help you create a simple TODO app
 
 ## Dependencies
 - [NodeJS](https://nodejs.org/en/)
