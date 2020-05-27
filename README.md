@@ -1,7 +1,7 @@
 # Todo App
 Une simple application pour gerer vos taches journalière
 
-## Dependences
+## Dépendences
 - [NodeJS](https://nodejs.org/en/)
 - [npm](https://nodejs.org/en/)
 - [Angular.io](http://angular.io)
