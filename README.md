@@ -1,9 +1,10 @@
 # Todo App
-This application will help you create a simple TODO app
+Une simple application pour gerer vos taches journalière
 
-## Dependencies
+## Dependences
 - [NodeJS](https://nodejs.org/en/)
 - [npm](https://nodejs.org/en/)
+- [Angular.io](http://angular.io)
 
 ## Installation
 ```console
@@ -11,16 +12,20 @@ git clone http://github.com/ognanshissi/front-end-test todo
 cd todo
 npm i
 ```
-## What To Do
-Pick **Angular** as framework
+## A Faire
+L'application doit etre developper avec le framework JavaScript `Angular` de preference la version `9.1.9`
 
-Create a simple application to manage tasks, todos app. Here the features you should add:
-- Add an input field for the title of todo.
-- Pressing `Enter` should submit the form, to add a todo.
-- Display todos list bellow the input field.
-- Update a todo.
-- A todo object should have following properties `{id: string, title: string, completed: boolean}`.
-- Cache todo so that if the same title is entered for the second time, you should display an error message.
-- Use a programmatic(code) cache, not localStorage or SessionStorage.
-- Make the application look a little better by adding some css
+Créer une simple application de gestion des taches, ci-dessous les fonctionalités a prendre en compte:
+
+- Ajouter un champ pour la saisie de la tache.
+- En appuyant sur la touche `Enter`, cette action doit soumettre le formulaire pour l'ajout de la tache.
+- Afficher la liste des taches sous le champ
+- Pouvoir modifier une tache (completer ou non) utiliser un peu de style pour faire apparaitre cela.
+- La meme tache ne peut etre enregistré deux fois, mettre en place un moins de validation.
+- Utiliser un cache progammatic , pas de localStorage ni SessionStorage.
+- Dans l'ensemble donné une allure sympa a l'application
+
+
+## Bonne Change
+
 
