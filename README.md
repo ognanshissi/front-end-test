@@ -13,17 +13,17 @@ cd todo
 npm i
 ```
 ## A Faire
-L'application doit etre developper avec le framework JavaScript `Angular` de preference la version `9.1.9`
+L'application doit etre developper avec le framework JavaScript `Angular` de préférence la version `16`
 
-Créer une simple application de gestion des taches, ci-dessous les fonctionalités a prendre en compte:
+Créer une simple application de gestion des tâches, ci-dessous les fonctionalités à prendre en compte:
 
-- Ajouter un champ pour la saisie de la tache.
-- En appuyant sur la touche `Enter`, cette action doit soumettre le formulaire pour l'ajout de la tache.
-- Afficher la liste des taches sous le champ
-- Pouvoir modifier une tache (completer ou non) utiliser un peu de style pour faire apparaitre cela.
-- La meme tache ne peut etre enregistré deux fois, mettre en place un moins de validation.
-- Utiliser un cache progammatic , pas de localStorage ni SessionStorage.
-- Dans l'ensemble donné une allure sympa a l'application
+- Ajouter un champ pour la saisie de tâche.
+- En appuyant sur la touche `Enter`, cette action doit soumettre le formulaire pour l'ajout de la tâche.
+- Afficher la liste des tâches sous le champ.
+- Pouvoir modifier une tâche (completer ou non) utiliser un peu de style pour faire apparaitre cela.
+- La meme tâche ne peut être enregistré deux fois, mettre en place un moyen de validation.
+- Utiliser un cache progammatic (RxJS) , pas de localStorage ni SessionStorage.
+- Dans l'ensemble donner une allure sympa à l'application
 
 
 ## Bonne Change
