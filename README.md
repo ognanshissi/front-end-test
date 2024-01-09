@@ -21,8 +21,8 @@ Créer une simple application de gestion des tâches, ci-dessous les fonctionali
 - En appuyant sur la touche `Enter`, cette action doit soumettre le formulaire pour l'ajout de la tâche.
 - Afficher la liste des tâches sous le champ.
 - Pouvoir modifier une tâche (completer ou non) utiliser un peu de style pour faire apparaitre cela.
-- La meme tâche ne peut être enregistré deux fois, mettre en place un moyen de validation.
-- Utiliser un cache progammatic (RxJS) , pas de localStorage ni SessionStorage.
+- La même tâche ne peut être enregistré deux fois, mettre en place un moyen de validation.
+- Utiliser un câche progammatic (RxJS) pour stoker les tâches; pas de localStorage ni SessionStorage.
 - Dans l'ensemble donner une allure sympa à l'application
 
 
